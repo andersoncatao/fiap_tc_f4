@@ -1,0 +1,2 @@
+python.exe -m pip install --upgrade pip
+pip install tensorflow opencv-contrib-python mediapipe deepface tqdm numpy tf-keras --upgrade
